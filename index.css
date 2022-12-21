@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(63, 61, 61);
+    color: yellow;
+}
+#buttons{
+    width: 40%;
+    margin: auto;
+    justify-content: space-between;
+    text-align: center;
+    margin-top: 20px;
+}
+button{
+    border: none;
+    border-radius: 5px;
+    padding: 10px 15px;
+    cursor: pointer;
+}
+#display{
+    width: 80%;
+    margin: auto;
+    box-shadow: red 0px 5px 15px;
+}
+h2{
+    text-align: center;
+}
+.video{
+    width: 50%;
+    height: 250px;
+    margin-left: 280px;
+}
